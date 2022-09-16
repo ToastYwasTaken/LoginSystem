@@ -1,0 +1,5 @@
+﻿  LoginSystem.cpp
+C:\Users\Franz Surface6Pro\OneDrive\Documents\Important_Own_Programs\c++\LoginSystem\LoginSystem\LoginSystem.cpp(73,7): warning C4551: function call missing argument list
+C:\Users\Franz Surface6Pro\OneDrive\Documents\Important_Own_Programs\c++\LoginSystem\LoginSystem\LoginSystem.cpp(97,7): warning C4551: function call missing argument list
+C:\Users\Franz Surface6Pro\OneDrive\Documents\Important_Own_Programs\c++\LoginSystem\LoginSystem\LoginSystem.cpp(163,11): warning C4551: function call missing argument list
+  LoginSystem.vcxproj -> C:\Users\Franz Surface6Pro\OneDrive\Documents\Important_Own_Programs\c++\LoginSystem\x64\Debug\LoginSystem.exe
